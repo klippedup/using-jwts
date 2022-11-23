@@ -69,7 +69,7 @@ width: 100%;
   background-color: transparent;
 }
 .cart-icon:hover{
-  transform: scale(1.5,1.5);
+  transform: scale(1.2,1.2);
   color:  rgb(210, 118, 118);
 }
 .cart-item-qty{
@@ -436,7 +436,7 @@ padding: 30px 65px;
   transition: .3s ease-in-out;
 }
 .product-detail-image:hover{
-  background-color: #f02d34;
+  background-color: #815b5c;
 
 }
 .small-images-container{
@@ -453,7 +453,7 @@ padding: 30px 65px;
 }
 
 .selected-image{
-  background-color:#f02d34;
+  background-color:#815b5c;
 }
 
 .product-detail-desc h4{
@@ -497,7 +497,7 @@ padding: 30px 65px;
   transition: transform 0.5s ease;
 }
 .buttons .add-to-cart:hover{
-  transform:scale(1.1,1.1)
+  transform:scale(1.2,1.2)
 }
 .buttons .buy-now{
   width: 200px;
@@ -514,7 +514,7 @@ padding: 30px 65px;
   transition: transform 0.5s ease;
 }
 .buttons .buy-now:hover{
-  transform:scale(1.1,1.1)
+  transform:scale(1.2,1.2)
 }
 .quantity-desc{
   border: 1px solid gray;
